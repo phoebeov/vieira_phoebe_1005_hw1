@@ -1,0 +1,137 @@
+@charset "UTF-8";
+
+.hidden
+{
+display: none;
+}
+
+#container
+{
+  margin: 0 auto;
+  width: 960px;
+  overflow: hidden;
+  background-color: white;
+}
+
+#topPhotos
+{
+  clear:both;
+  padding-bottom: 40px;
+  float: bottom;
+  margin-bottom: 50px;
+}
+
+.topImg
+{
+  width: 300px;
+  height: 250px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+#topbar
+{
+  background-color: #9ff0fe;
+  height: 32px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+#bottombar
+{
+  background-color: #9ff0fe;
+  height: 32px;
+  margin-bottom: 20px;
+  color: white;
+  clear: bottom;
+}
+
+h2
+{
+  font-family:"Helvetica", Arial, sans-serif;
+  text-align: center;
+}
+
+h3
+{
+  font-family:"Helvetica", Arial, sans-serif;
+  text-align: left;
+}
+
+
+p, ol
+{
+  font-family: "futura", sans-serif;
+  line-height: 20px;
+}
+
+#myLife
+{
+  border-bottom: solid 2px #51aeff;
+  margin-bottom: 25px;
+  border-top: solid 2px #51aeff;
+}
+
+.lifeImg
+{
+  width: 200px;
+  height: 150px;
+  float: left;
+  clear: left;
+  margin-right: 115px;
+  margin-bottom: 100px;
+
+}
+
+#mySchool
+{
+  border-bottom: solid 2px #51aeff;
+  margin-bottom: 30px;
+}
+
+#lifeText
+{
+  margin-bottom: 150px;
+}
+
+#mainHeader
+{
+  border-top: solid 2px #51aeff;
+  clear: both;
+}
+
+.schoolImg
+{
+  width: 200px;
+  height: 150px;
+  float: left;
+  clear: left;
+  margin-right: 115px;
+  margin-bottom: 100px;
+}
+
+#schoolText
+{
+  margin-bottom: 60px;
+}
+
+.favesImg
+{
+width: 200px;
+height: 150px;
+float: left;
+clear: left;
+margin-right: 145px;
+margin-bottom: 300px;
+}
+
+#favesText
+{
+  margin-bottom: 60px;
+}
+
+.center
+{
+  margin: auto;
+}
